@@ -158,7 +158,7 @@ const ar: typeof en = {
     resources: 'مصادر',
     releases: 'الإصدارات',
     reportBug: 'أبلغ عن مشكلة',
-    siblingApps: 'تطبيقات مميزة',
+    siblingApps: 'تطبيقات مختارة',
     apps: { easyshoot: 'تطبيق لقطات شاشة للماك', prSift: 'إضافة متصفح لمراجعة GitHub' },
     copyright: (year: number) => `جميع الحقوق محفوظة © ${year} Haytham A. Salama`,
     legal: 'روابط قانونية',
