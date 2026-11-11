@@ -35,7 +35,7 @@ const columns = computed<{ title: string, links: FooterLink[] }[]>(() => [
 
 const siblingApps = computed(() => [
   { id: 'easyshoot', name: 'EasyShoot', url: 'https://easyshoot.app/', about: text.value.footer.apps.easyshoot },
-  { id: 'pr-sift', name: 'PR Sift', url: 'https://haythamasalama.github.io/pr-sift/', about: text.value.footer.apps.prSift },
+  { id: 'pr-sift', name: 'PR Sift', url: 'https://pr-sift.haythamasalama.me/', about: text.value.footer.apps.prSift },
 ])
 </script>
 
