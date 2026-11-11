@@ -21,7 +21,7 @@ export function useSiteSeo() {
         'applicationSubCategory': 'WhatsApp Business template monitoring',
         'operatingSystem': 'Linux, macOS, Windows (Docker)',
         'softwareVersion': version,
-        'license': 'https://opensource.org/licenses/MIT',
+        'license': 'https://polyformproject.org/licenses/shield/1.0.0',
         'isAccessibleForFree': true,
         'offers': { '@type': 'Offer', 'price': '0', 'priceCurrency': 'USD' },
         'downloadUrl': repo,
@@ -39,7 +39,7 @@ export function useSiteSeo() {
         'codeRepository': repo,
         'programmingLanguage': ['TypeScript', 'Vue'],
         'runtimePlatform': 'Node.js',
-        'license': 'https://opensource.org/licenses/MIT',
+        'license': 'https://polyformproject.org/licenses/shield/1.0.0',
         'targetProduct': { '@id': `${siteUrl}/#app` },
       },
       {

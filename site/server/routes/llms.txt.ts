@@ -12,7 +12,7 @@ export default defineEventHandler((event) => {
   return [
     `# ${en.brand}`,
     '',
-    `> ${en.description} MIT license, version ${version}. The interface is in English and Arabic (${ar.brand}).`,
+    `> ${en.description} PolyForm Shield 1.0.0 license (public source code; no resale and no competing copies), version ${version}. The interface is in English and Arabic (${ar.brand}).`,
     '',
     en.hero.text,
     '',

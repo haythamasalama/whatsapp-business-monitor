@@ -5,10 +5,10 @@
 # WhatsApp Business Monitor
 
 **Your WhatsApp Business accounts on one screen: templates, costs, numbers and settings.**<br>
-Free and open source. It runs on your computer or your server, and your tokens never leave it.
+Free, with the code on GitHub. It runs on your computer or your server, and your tokens never leave it.
 
 [![CI](https://github.com/Haythamasalama/whatsapp-business-monitor/actions/workflows/ci.yml/badge.svg)](https://github.com/Haythamasalama/whatsapp-business-monitor/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/badge/license-MIT-0F0F12.svg)](LICENSE)
+[![License: PolyForm Shield](https://img.shields.io/badge/license-PolyForm%20Shield-0F0F12.svg)](LICENSE)
 [![Docker image](https://img.shields.io/badge/docker-ghcr.io-317455?logo=docker&logoColor=white)](https://github.com/Haythamasalama/whatsapp-business-monitor/pkgs/container/whatsapp-business-monitor)
 
 [🌐 Website](https://wbm.haythamasalama.me/) · [العربية](https://wbm.haythamasalama.me/ar/) · [🚀 Install](#-install) · [📖 Docs](https://wbm.haythamasalama.me/docs/accounts-and-numbers/) · [🤝 Contribute](CONTRIBUTING.md)
@@ -112,6 +112,8 @@ The database is in `~/.config/whatsapp-templates` (or `WHATSAPP_TEMPLATES_DIR`).
 
 ## 📄 License
 
-[MIT](LICENSE) · Made by [Haytham A. Salama](https://haythamasalama.me) · Built with [Nuxt](https://nuxt.com) and [Nuxt UI](https://ui.nuxt.com)
+[PolyForm Shield 1.0.0](LICENSE): free to use, including at work. You may not sell WhatsApp Business Monitor or publish a copy or a competing product.
+
+Made by [Haytham A. Salama](https://haythamasalama.me) · Built with [Nuxt](https://nuxt.com) and [Nuxt UI](https://ui.nuxt.com)
 
 WhatsApp is a trademark of Meta Platforms, Inc. This project is not affiliated with or endorsed by Meta.
