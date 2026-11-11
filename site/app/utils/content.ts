@@ -69,8 +69,17 @@ const en = {
     ],
   },
   footer: {
-    madeBy: 'Made by',
+    product: 'Product',
+    resources: 'Resources',
+    releases: 'Releases',
+    reportBug: 'Report a bug',
+    siblingApps: 'Sibling apps',
+    apps: { easyshoot: 'Screenshot app for Mac', prSift: 'Browser extension for GitHub reviews' },
+    copyright: (year: number) => `Copyright © ${year} Haytham A. Salama. All rights reserved.`,
+    legal: 'Legal',
+    privacy: 'Privacy Policy',
     license: 'License',
+    onX: 'Haytham A. Salama on X',
   },
 }
 
@@ -145,8 +154,17 @@ const ar: typeof en = {
     ],
   },
   footer: {
-    madeBy: 'من تطوير',
+    product: 'المنتج',
+    resources: 'مصادر',
+    releases: 'الإصدارات',
+    reportBug: 'أبلغ عن مشكلة',
+    siblingApps: 'تطبيقات شقيقة',
+    apps: { easyshoot: 'تطبيق لقطات شاشة للماك', prSift: 'إضافة متصفح لمراجعة GitHub' },
+    copyright: (year: number) => `جميع الحقوق محفوظة © ${year} Haytham A. Salama`,
+    legal: 'روابط قانونية',
+    privacy: 'سياسة الخصوصية',
     license: 'الرخصة',
+    onX: 'Haytham A. Salama على X',
   },
 }
 
